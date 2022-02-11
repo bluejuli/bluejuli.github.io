@@ -20,7 +20,7 @@ title                    : "Blue Umbrella" # "Site Title"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "BlueJuli" # "Your Name"
-description              : "An amazing website."
+description              : "An website."
 url                      : "https://bluejuli.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -102,10 +102,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "BlueJuli"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "I will do my best!"
+  location         : "South Korea"
   email            :
   links:
     - label: "Email"
